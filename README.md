@@ -22,7 +22,7 @@ Click the "Random Hero" button to jump to a random hero page:
 <img alt="Random Hero" src="https://user-images.githubusercontent.com/76569535/176825866-5f898103-7289-4c14-b7a1-e645754690de.png" height=75% width=75%>
 
 # App Logic
-Since this project is uploaded to the Microsoft Store, there are several files containing sensitive information. For the sake of simplicity, I decided to only upload the the .cs and .xaml files I created, as well as the assets I used.
+Since this project is uploaded to the Microsoft Store, the project itself contains several files containing sensitive information. For the sake of simplicity, I decided to only upload the the .cs and .xaml files I created, as well as the assets I used.
 
 # Note
 This app is NOT affiliated with Overwatch or its parent company in any way.
