@@ -17,6 +17,11 @@ Use the search bar to quickly find the hero you are looking for:
 
 <img alt="Search Hero" src="https://user-images.githubusercontent.com/76569535/176825865-97367e54-cef8-43b5-a6e6-4a3fdc81b644.png" height=75% width=75%>
 
+Filter the list of heroes to only display heroes of a certain class:
+
+<img alt="Filter Heroes" src="https://user-images.githubusercontent.com/76569535/176827885-346fa862-f8cb-4675-9858-2e75505c725a.png" height=75% width=75% >
+
+
 Click the "Random Hero" button to jump to a random hero page:
 
 <img alt="Random Hero" src="https://user-images.githubusercontent.com/76569535/176825866-5f898103-7289-4c14-b7a1-e645754690de.png" height=75% width=75%>
